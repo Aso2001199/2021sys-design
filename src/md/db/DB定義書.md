@@ -2,7 +2,7 @@
 ## ER図
 [ER図はこちらです](https://github.com/Aso2001199/2021sys-design/blob/main/ER%E5%9B%B3.md "ER図はこちら")
 
-#DBテーブルカラム詳細一覧
+# DBテーブルカラム詳細一覧
 
 # データベース詳細
 ### d_purchase
